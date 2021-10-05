@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/thelinuxlich/atom-http#readme",
   "dependencies": {
-    "ioredis": "^4.27.9",
     "nodemon": "^2.0.12",
-    "redis-stream-helper": "thelinuxlich/redis-stream-helper"
+    "redis-stream-helper": "thelinuxlich/redis-stream-helper",
+    "atom-helper": "thelinuxlich/atom-helper"
   }
 }
